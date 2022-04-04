@@ -1,7 +1,7 @@
 # Marvel-Quiz
 This Marvel quiz refers to a short test of knowledge on The Marvel Universe 
  
- - Deployed linked
+ - Deployed linked https://moorejalen2800.github.io/Marvel-Quiz/
  
  
  
