@@ -15,10 +15,13 @@ Visual Studio Coding is recommended.
 
 # Features
 
-HTML
-CSS
-JavaScript
-Codepen
+[HTML]
+
+[CSS]
+
+[JavaScript]
+
+[Codepen]
   
   
  ## User Story
